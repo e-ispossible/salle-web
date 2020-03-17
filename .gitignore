@@ -4,6 +4,7 @@ node_modules
 .cache/
 test/unit/coverage
 package-lock.json
+yarn.lock
 
 # local env files
 .env.local
